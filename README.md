@@ -152,3 +152,6 @@ To quickly start a new project from this boilerplate follow the next steps:
     limitations under the License.
 ```
 
+## Refactor package
+http://stackoverflow.com/questions/16804093/android-studio-rename-package
+
